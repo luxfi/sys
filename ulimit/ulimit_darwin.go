@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"syscall"
 
-	"github.com/luxfi/log"
+	log "github.com/luxfi/log"
 )
 
 const DefaultFDLimit = 10 * 1024
