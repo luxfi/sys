@@ -1,4 +1,4 @@
-# LLM.md - Hanzo Sys
+# Hanzo Sys
 
 ## Overview
 Go module: github.com/luxfi/sys
